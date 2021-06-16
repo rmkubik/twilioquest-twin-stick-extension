@@ -1,0 +1,14 @@
+{
+  "title": "Combat Training Simulator",
+  "description": "Train in this state of the art combat simulator to beat Cedric's evil twin, Frederic.",
+  "mission_icon": "mission_icon.png",
+  "is_mission": true,
+  "priority": 1,
+  "backgroundMusic": "hackertheme_104771b",
+  "backgroundEffect": {
+    "key": "vr",
+    "options": {}
+  },
+  "flavorTextOverrides": {},
+  "objectives": []
+}
